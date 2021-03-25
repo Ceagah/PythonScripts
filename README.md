@@ -9,6 +9,7 @@ This ReadMe is to explain how you can access my resume, with my links... If you 
 <br/>
 
 <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 ## Disclaimer
 
